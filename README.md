@@ -14,9 +14,11 @@
 - 熟悉CITA联盟链的实现
 
 ### 我的开源贡献
-- CITA
 - Yamswap(owner)
 - Resonance(owner)
+- gouyeel(owner)
+- citahub
+- lbc-team
 
-### 期望一份远程工作
+### 迫切期望一份远程工作
 - 联系我: hi.aewalle@gmail.com
