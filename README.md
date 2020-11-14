@@ -1,18 +1,11 @@
-### Hi there 👋
+### ABOUT ME
+- 智能合约工程师
+- 对DeFi充满兴趣
+- 比特币HODLER
+- 期望一份远程工作
+- 联系我: hi.aewalle@gmail.com
 
-### 🤔 我先放一个README在这里
-
-<!--
-**a186r/a186r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 我的技能
+- 熟练以太坊智能合约开发
+- 熟悉各个主流DeFi产品
+- 熟练使用Rust、Go
