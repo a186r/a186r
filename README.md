@@ -10,8 +10,9 @@
 - 熟练以太坊智能合约开发
 - 熟悉各个主流DeFi产品(Uniswap\Curve\Synthetix\UMA\AAVE...)
 - 熟练使用Rust、Go
-- 熟练EOS、DOT等公链
+- 熟悉EOS、DOT、XTZ等公链及设计思想
 - 熟悉CITA联盟链的实现
+- 对密码学稍有了解
 
 ### 我的开源贡献
 - Yamswap(owner)
