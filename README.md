@@ -21,5 +21,5 @@
 - citahub
 - lbc-team
 
-### 迫切期望一份远程工作
+### 迫切需要一份远程工作
 - 联系我: hi.aewalle@gmail.com
