@@ -8,6 +8,7 @@
 
 ### 我的技能
 - 熟练以太坊智能合约开发
+- 熟练使用Truffle、Hardhat、ether.js等开发工具
 - 熟悉各个主流DeFi产品(MakerDao\Uniswap\Curve\Synthetix\UMA\AAVE...)
 - 熟悉去中心化身份解决方案
 - 熟练使用Rust、Go
