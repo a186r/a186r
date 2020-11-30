@@ -7,7 +7,7 @@
 - 为体验DeFi，在市场中三进三出，尚未回本
 
 ### 我的技能
-- 熟练以太坊智能合约开发
+- 熟练以太坊智能合约开发(Solidity\TypeScript)
 - 熟练使用Truffle、Hardhat、ether.js等开发工具
 - 熟悉各个主流DeFi产品(MakerDao\Uniswap\Curve\Synthetix\UMA\AAVE...)
 - 熟悉去中心化身份解决方案
