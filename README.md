@@ -1,3 +1,5 @@
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=a186r&show_icons=true)
+
 ### 我的身份
 - Android研发工程师(3年)
 - 智能合约工程师(3年)
