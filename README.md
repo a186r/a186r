@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=a186r&show_icons=true" align="right">
+<img src="https://github-readme-stats.vercel.app/api?username=a186r&theme=highcontrast" align="right">
 
 ### 我的身份
 - Android研发工程师(3年)
