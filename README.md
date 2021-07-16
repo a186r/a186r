@@ -9,7 +9,7 @@
 
 ### 我的技能
 - 熟练掌握智能合约的开发、测试、部署、升级、维护
-- 熟练使用Truffle、Hardhat、ether.js等开发框架
+- 熟练使用Truffle、Hardhat、ether.js、OpenZeppelin开源库等开发工具
 - 熟悉Go、TypeScript等开发语言，可快速上手
 - 熟悉多个主流DeFi产品(MakerDao、Uniswap、Curve、Synthetix、UMA、AAVE...)
 - 熟悉Chainlink预言机
