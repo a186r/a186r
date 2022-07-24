@@ -1,7 +1,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=a186r&show_icons=true&theme=highcontrast" align="right">
 
 ### 关于我
-- 智能合约工程师(3年)
+- 智能合约工程师(4年)
 - Android研发工程师(3年)
 - 比特币忠实粉丝
 - 深度参与以太坊、DeFi、NFT
