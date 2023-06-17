@@ -18,9 +18,10 @@
 - 具备供应链金融业务在区块链上的应用经验
 
 ### 我的开源贡献
+- [bitkeep-wallet](https://github.com/bitkeepwallet)
+- [starnet-edu](https://github.com/starknet-edu)
+- [rust-lang](https://github.com/rust-lang)
 - Yamswap(owner)
-- starnet-edu
-- rust-lang
 - citahub
 - lbc-team
 
