@@ -20,7 +20,7 @@
 ### 我的开源贡献
 - [bitkeep-wallet](https://github.com/bitkeepwallet)
 - [starnet-edu](https://github.com/starknet-edu)
-- [rust-lang](https://github.com/rust-lang)
+- [rust-lang](https://github.com/rust-lang/rustlings)
 - Yamswap(owner)
 - citahub
 - lbc-team
