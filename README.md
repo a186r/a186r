@@ -24,6 +24,3 @@
 - Yamswap(owner)
 - citahub
 - lbc-team
-
-### 联系我
-- Email: hi.aewalle@gmail.com
