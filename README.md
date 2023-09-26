@@ -1,5 +1,3 @@
-<img src="https://github-readme-stats.vercel.app/api?username=a186r&show_icons=true&theme=highcontrast" align="right">
-
 ### 关于我
 - 智能合约工程师(5年)
 - Android研发工程师(3年)
